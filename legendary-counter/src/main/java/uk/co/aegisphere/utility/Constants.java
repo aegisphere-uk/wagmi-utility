@@ -9,18 +9,37 @@ public class Constants {
     /** EMPERORS */
     public static final String ALIEN_EMPEROR = "Alien%20Emperor";
     public static final String HUMAN_EMPEROR = "Human%20Emperor";
-    /** HUMANS */
+    /** HUMAN HEROES */
     public static final String FIGYU = "General%20Figyu";
     public static final String TALOS = "General%20Talos";
     public static final String MELCROSE = "General%20Melcrose";
     public static final String STEMIMA = "General%20Stemima";
     public static final String LEVIATHAN = "General%20Leviathan";
-    /** ALIENS */
+    /** ALIEN HEROES */
     public static final String APOLLYON = "Commander%20Apollyon";
     public static final String DAGON = "Commander%20Dagon";
     public static final String CHEMOSH = "Commander%20Chemosh";
     public static final String SARTOSIS = "Commander%20Sartosis";
     public static final String ARCHON = "Commander%20Archon";
+    /** TROOPS */
+    public static final String WAGMI_TROOPS = "Wagmi%20Troops";
+    public static final String ENOGUARDS = "Enoguards";
+    public static final String SCRAPPERS = "Scrappers";
+    public static final String MANICRITES = "Manicrites";
+    public static final String IMMORTALS = "Immortals";
+    public static final String SARAGUARDS = "Saraguards";
+    public static final String SAYERETS = "Sayeret";
+    public static final String GAMMADONS = "Gammadon";
+    /** SPELLS */
+    public static final String SHOCKWAVE = "Shockwave";
+    public static final String PLASMABLAST = "Plasma%20Blast";
+    public static final String AURORABEAM = "Aurora%20Beam";
+    public static final String COSMICRAIN = "Cosmic%20Rain";
+    /** SUPPORT */
+    public static final String SHARPSHOOTER = "Obix%20Sharpshooter";
+    public static final String INTERSCOPER = "Ion%20Interscoper";
+    public static final String CHEMOTANK = "Chemotank";
+    public static final String GELENATANK = "Gelenatank";
 
     public static final String CLOSED_BETA = "Closed%20Beta";
     public static final String PRE_SEASON = "Pre-Season";
